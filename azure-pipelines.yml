@@ -7,7 +7,7 @@
 trigger:
 - main
 
-pool: "aws"
+pool: WindowVm
 
 steps:
 - script: echo "Hello, world!"
